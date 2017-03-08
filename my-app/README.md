@@ -1,7 +1,7 @@
 # MyApp
 
 #firebase url ex2
-my-app-68759.firebaseapp.com
+https://my-app-68759.firebaseapp.com
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
